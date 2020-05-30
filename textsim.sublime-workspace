@@ -187,6 +187,32 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/textsim/settings.py",
+			"settings":
+			{
+				"buffer_size": 3170,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/apps.py",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/textsim/urls.py",
+			"settings":
+			{
+				"buffer_size": 887,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -220,10 +246,16 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/ASUS/Dev/textsim"
+		"/C/Users/ASUS/Dev/textsim",
+		"/C/Users/ASUS/Dev/textsim/src",
+		"/C/Users/ASUS/Dev/textsim/src/main",
+		"/C/Users/ASUS/Dev/textsim/src/textsim"
 	],
 	"file_history":
 	[
+		"/C/Users/ASUS/Dev/textsim/src/main/views.py",
+		"/C/Users/ASUS/Dev/textsim/src/main/templates/base.html",
+		"/C/Users/ASUS/Dev/textsim/src/main/templates/home.html",
 		"/C/Users/ASUS/Dev/efashion/src/cart/templates/cart/order_summary.html",
 		"/C/Users/ASUS/Dev/efashion/src/accounts/templates/accounts/order_summary.html",
 		"/C/Users/ASUS/Dev/efashion/src/formal/templates/formal/formal_list.html",
@@ -348,10 +380,7 @@
 		"/C/Users/ASUS/Dev/trydjango/src/templates/about.html",
 		"/C/Users/ASUS/Dev/trydjango/src/trydjango/settings.py",
 		"/C/Users/ASUS/Dev/trydjango/src/pages/views.py",
-		"/C/Users/ASUS/Dev/trydjango/src/templates/myphoto.jpg",
-		"/C/Users/ASUS/Dev/trydjango/src/templates/contactus.html",
-		"/C/Users/ASUS/Dev/trydjango/src/product/models.py",
-		"/C/Users/ASUS/Dev/trydjango/src/product/admin.py"
+		"/C/Users/ASUS/Dev/trydjango/src/templates/myphoto.jpg"
 	],
 	"find":
 	{
@@ -386,8 +415,97 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/textsim/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								859,
+								859
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 316.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/apps.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/textsim/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
